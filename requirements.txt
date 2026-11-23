@@ -1,0 +1,4 @@
+# PyTorch 2.1.2 is the paper version. Install the appropriate CUDA build first for GPU use.
+torch==2.1.2
+numpy>=1.24,<2
+Pillow>=9.2
